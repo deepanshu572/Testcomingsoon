@@ -21,7 +21,7 @@
   padding: 0%;
   box-sizing: border-box;
 }
-<<<<<<< HEAD
+
 .coming-soon{
   display: none;
 }
@@ -3878,7 +3878,7 @@ ul li .active .uil {
     color: green;
   }
   
-<<<<<<< HEAD
+
   .coming-soon  h1{
         text-transform: uppercase;
     font-family: verdana;
@@ -3964,7 +3964,7 @@ ul li .active .uil {
   }
 }
 
-<<<<<<< HEAD
+
 @media (min-width: 576px) {
   .coming-soon .modal-dialog {
        max-width: 100% !important;
