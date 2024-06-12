@@ -25,8 +25,6 @@
 .coming-soon{
   display: none;
 }
-=======
->>>>>>> 43852d41b72f267b06ccb242ca944417b8fdfb0d
 
 .h1,
 .h2,
@@ -3878,7 +3876,6 @@ ul li .active .uil {
     color: green;
   }
   
-
   .coming-soon  h1{
         text-transform: uppercase;
     font-family: verdana;
@@ -3937,9 +3934,7 @@ ul li .active .uil {
   #main{
       height: 514px ;
   }
-=======
-  
->>>>>>> 43852d41b72f267b06ccb242ca944417b8fdfb0d
+
   #staticBackdrops{
     height: 100%;
   }
@@ -3973,8 +3968,6 @@ ul li .active .uil {
    }
  
 }
-=======
->>>>>>> 43852d41b72f267b06ccb242ca944417b8fdfb0d
 
 @media (min-width: 576px) {
   .modal-dialog {
